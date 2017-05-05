@@ -5,7 +5,7 @@
 
 #html_logger {
 	max-height: 456px;
-	overflow: scroll;
+	overflow: auto;
 }
 
 #title {
