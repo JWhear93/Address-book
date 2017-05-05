@@ -1,0 +1,19 @@
+#main {
+	width: 600px;
+	margin: 0 auto;	
+}
+
+#html_logger {
+	max-height: 456px;
+	overflow: scroll;
+}
+
+#title {
+	text-align: center;
+}
+
+#listButton, #searchButton, #addButton {
+	display: inline-block;
+	position: relative;
+	left: 150px;
+}
